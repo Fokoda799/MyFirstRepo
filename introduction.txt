@@ -1,0 +1,3 @@
+Brief Introduction About Myself
+
+Abdellah Nait Hadid is a passionate and ambitious software engineer with a deep desire to create impactful technologies across platforms—from websites and mobile apps to operating systems and game engines. A graduate of the ALX Software Engineering Program, he is driven by a mission to empower himself, uplift his family, contribute meaningfully to Morocco’s progress, and foster global unity. With a strong foundation in full-stack development, a love for building with tools like React, NestJS, and Docker, and a relentless curiosity for how things work from the chip to the cloud, Abdellah is steadily laying the groundwork for his future software company—one that aims to rival industry leaders through innovation, excellence, and purpose.
