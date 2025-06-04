@@ -1,0 +1,1 @@
+I learned new things about Git and GitHub that I didn't know before, such as forking, pull requests, commit history, and more. 
