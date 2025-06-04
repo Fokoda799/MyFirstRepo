@@ -1,0 +1,12 @@
+My Personal and Academic Goals for Next Year
+
+1. Strengthen backend development skills, particularly in Java and Spring Boot.
+2.  Build and launch at least 2 full-stack projects using React and NestJS.
+3.  Learn and apply Docker and cloud deployment (AWS, GCP, or Azure) to your portfolio projects.
+4.  Contribute to open-source projects or collaborate with a development team.
+5.  Improve data structures and algorithms proficiency by completing daily tasks and solving 100+ problems.
+6.  Start documenting your learning journey and share technical content regularly (e.g., blog posts or tutorials).
+7.  Prepare and apply for software engineering internships or remote freelance opportunities.
+8.  Continue developing your portfolio website to showcase your work and attract professional opportunities.
+9.  Stay consistent with habits that boost productivity and discipline (e.g., daily planning, deep work blocks).
+10. Maintain a strong connection to your long-term vision of building a world-class tech company.
