@@ -1,0 +1,35 @@
+<h2 class="page-title">Dashboard Overview</h2>
+
+<div class="stats-grid">
+  <div class="stat-card">
+    <div class="stat-title">Total Users</div>
+    <div class="stat-value"><%= users %></div>
+  </div>
+  
+  <div class="stat-card">
+    <div class="stat-title">Active Tasks</div>
+    <div class="stat-value"><%= tasks %></div>
+  </div>
+  
+  <div class="stat-card">
+    <div class="stat-title">Projects</div>
+    <div class="stat-value"><%= projects %></div>
+  </div>
+</div>
+
+<div class="card">
+  <h3 style="font-size: 1.25rem; font-weight: 600; color: #4a5568; margin-bottom: 1rem;">
+    Quick Actions
+  </h3>
+  <p style="color: #718096; margin-bottom: 1.5rem;">
+    Manage your system from this central dashboard.
+  </p>
+  
+  <div class="dashboard-actions">
+    <form method="POST" action="/admin/logout" style="display: inline;">
+      <button class="btn btn-secondary" type="submit">
+        Sign Out
+      </button>
+    </form>
+  </div>
+</div>
